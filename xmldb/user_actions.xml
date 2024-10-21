@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<logs>
+    <user>
+        <dni>8886</dni>
+        <actions>
+            <entry>
+                <action>login</action>
+                <timestamp>2024-10-20 20:47:20</timestamp>
+            </entry>
+            <entry>
+                <action>logout</action>
+                <timestamp>2024-10-20 22:37:32</timestamp>
+            </entry>
+        </actions>
+    </user>
+    <user>
+        <dni>2000</dni>
+        <actions>
+            <entry>
+                <action>login</action>
+                <timestamp>2024-10-20 22:37:56</timestamp>
+            </entry>
+            <entry>
+                <action>logout</action>
+                <timestamp>2024-10-20 22:39:00</timestamp>
+            </entry>
+            <entry>
+                <action>login</action>
+                <timestamp>2024-10-20 22:41:52</timestamp>
+            </entry>
+            <entry>
+                <action>login</action>
+                <timestamp>2024-10-20 22:58:13</timestamp>
+            </entry>
+            <entry>
+                <action>login</action>
+                <timestamp>2024-10-20 22:59:14</timestamp>
+            </entry>
+            <entry>
+                <action>login</action>
+                <timestamp>2024-10-20 23:00:24</timestamp>
+            </entry>
+            <entry>
+                <action>login</action>
+                <timestamp>2024-10-20 23:02:14</timestamp>
+            </entry>
+        </actions>
+    </user>
+    <user>
+        <dni>2009</dni>
+        <actions>
+            <entry>
+                <action>login</action>
+                <timestamp>2024-10-20 22:45:32</timestamp>
+            </entry>
+            <entry>
+                <action>login</action>
+                <timestamp>2024-10-20 22:47:35</timestamp>
+            </entry>
+            <entry>
+                <action>login</action>
+                <timestamp>2024-10-20 22:48:40</timestamp>
+            </entry>
+            <entry>
+                <action>login</action>
+                <timestamp>2024-10-20 22:49:56</timestamp>
+            </entry>
+            <entry>
+                <action>login</action>
+                <timestamp>2024-10-20 22:54:04</timestamp>
+            </entry>
+            <entry>
+                <action>login</action>
+                <timestamp>2024-10-20 22:55:41</timestamp>
+            </entry>
+            <entry>
+                <action>logout</action>
+                <timestamp>2024-10-20 22:56:59</timestamp>
+            </entry>
+        </actions>
+    </user>
+</logs>

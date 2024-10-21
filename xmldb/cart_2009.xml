@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<cart>
+    <product_item>
+        <id_product>5</id_product>
+        <product_name>Ramo de Tulipanes</product_name>
+        <quantity>5</quantity>
+        <dni>2009</dni>
+        <price_item>
+            <price>22.00</price>
+            <currency>EU</currency>
+        </price_item>
+    </product_item>
+    <product_item>
+        <id_product>6</id_product>
+        <product_name>Planta de Interior</product_name>
+        <quantity>5</quantity>
+        <dni>2009</dni>
+        <price_item>
+            <price>30.00</price>
+            <currency>EU</currency>
+        </price_item>
+    </product_item>
+    <product_item>
+        <id_product>2</id_product>
+        <product_name>Ramo de Lirios</product_name>
+        <quantity>4</quantity>
+        <dni>2009</dni>
+        <price_item>
+            <price>18.50</price>
+            <currency>EU</currency>
+        </price_item>
+    </product_item>
+</cart>

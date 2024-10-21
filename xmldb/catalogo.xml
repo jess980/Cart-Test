@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogo>
+    <producto>
+        <id>1</id>
+        <nombre>Ramo de Rosas</nombre>
+        <precio>20.00</precio>
+        <inventario>16</inventario>
+    </producto>
+    <producto>
+        <id>2</id>
+        <nombre>Ramo de Lirios</nombre>
+        <precio>18.50</precio>
+        <inventario>19</inventario>
+    </producto>
+    <producto>
+        <id>3</id>
+        <nombre>Orquideas</nombre>
+        <precio>25.00</precio>
+        <inventario>7</inventario>
+    </producto>
+    <producto>
+        <id>4</id>
+        <nombre>Ramo de Girasoles</nombre>
+        <precio>15.00</precio>
+        <inventario>20</inventario>
+    </producto>
+    <producto>
+        <id>5</id>
+        <nombre>Ramo de Tulipanes</nombre>
+        <precio>22.00</precio>
+        <inventario>5</inventario>
+    </producto>
+    <producto>
+        <id>6</id>
+        <nombre>Planta de Interior</nombre>
+        <precio>30.00</precio>
+        <inventario>0</inventario>
+    </producto>
+    <producto>
+        <id>7</id>
+        <nombre>Ramo de Margaritas</nombre>
+        <precio>12.00</precio>
+        <inventario>15</inventario>
+    </producto>
+</catalogo>

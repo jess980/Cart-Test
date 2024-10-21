@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<cart>
+    <product_item>
+        <id_product>3</id_product>
+        <product_name>Orquideas</product_name>
+        <quantity>1</quantity>
+        <dni>2000</dni>
+        <price_item>
+            <price>25.00</price>
+            <currency>EU</currency>
+        </price_item>
+    </product_item>
+    <product_item>
+        <id_product>2</id_product>
+        <product_name>Ramo de Lirios</product_name>
+        <quantity>1</quantity>
+        <dni>2000</dni>
+        <price_item>
+            <price>18.50</price>
+            <currency>EU</currency>
+        </price_item>
+    </product_item>
+</cart>
